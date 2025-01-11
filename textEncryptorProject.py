@@ -19,7 +19,7 @@ originalText = input("Enter a Text to Encrypt: ")
 lenOrginalText = len(originalText)
 print(f'Length of the Original Text: {lenOrginalText}')
 
-encryptedTextDatabase = '1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM'
+encryptedTextDatabase = 'your_api_key'
 
 encryptedText = ''
 
